@@ -1,4 +1,4 @@
-The project is copied from [JACOB KAPLAN-MOSS(https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django.)]'s repository about the Django Channels.
+The project is copied from [JACOB KAPLAN-MOSS](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django.)'s repository about the Django Channels. Minor changes were made to make the code working with the latest libraries.
 
 # Django Channels Example [![Build Status](https://travis-ci.org/jacobian/channels-example.svg?branch=master)](https://travis-ci.org/jacobian/channels-example)
 
